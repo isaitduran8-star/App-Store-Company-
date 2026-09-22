@@ -1,3 +1,0 @@
-superadmin | aplicaciones company | aplicaciones Company
-admin | juan | Juan Perez
-visitante | invitado | Público General
