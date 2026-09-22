@@ -1,2 +1,1 @@
 superadmin | aplicaciones company | Company Oficial
-creador | otro usuario | Otro Creador
