@@ -1,2 +1,3 @@
 superadmin | aplicaciones company | Company Oficial
 creador | otro usuario | Otro Creador
+admin|soporteparajieshuo.|Soporte para Jieshuo.
