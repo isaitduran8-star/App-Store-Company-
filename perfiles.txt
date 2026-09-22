@@ -1,3 +1,2 @@
-superadmin | aplicaciones company | aplicaciones Company
-admin | juan | Juan Perez
-visitante | invitado | Público General
+superadmin | aplicaciones company | Company Oficial
+creador | otro usuario | Otro Creador
