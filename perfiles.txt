@@ -1,2 +1,3 @@
 superadmin | aplicaciones company | Company Oficial
 admin|soporteparajieshuo.|Soporte para Jieshuo.
+admin|accesibilidadplus.|Accesibilidad plus.
