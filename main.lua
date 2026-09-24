@@ -554,17 +554,14 @@ function descargarEInstalarActualizacion(info, cb)
 end
 
 -- Actualizacion automatica al abrir la tienda (aplica al reabrir el complemento)
-function autoActualizarTienda()
+function avisarActualizacionDisponible()
   consultarManifiestoActualizacion(function(info)
     if info and versionRemotaEsMayor(info.version, versionInstaladaTienda()) then
-      descargarEInstalarActualizacion(info, function(ok)
-        if ok then Toast.makeText(ctxSafe(),"Tienda actualizada a v"..info.version.." - se aplicará al reabrir",Toast.LENGTH_LONG).show() end
-      end)
+      Toast.makeText(ctxSafe(),"Hay una actualización disponible (v"..info.version.."). Ve a Configuración y toca BUSCAR ACTUALIZACIÓN DE LA TIENDA.",Toast.LENGTH_LONG).show()
     end
   end)
 end
 
--- Sube el main.lua actual de la tienda al repo y escribe la version en update.json
 -- Sube el archivo seleccionado al repo y escribe la version en update.json
 function subirActualizacionTiendaGitHub(rutaArchivo, versionNueva, fechaNueva, notasNueva, cb)
   local prog=mostrarProgreso("Subiendo actualización v"..tostring(versionNueva).."...")
@@ -742,7 +739,7 @@ function mostrarInterfaz()
   mostrarPerfiles()
   verificarCreditosUnicaVez()
   verificarSonidosAlIniciar()
-  autoActualizarTienda()
+  avisarActualizacionDisponible()
 end
 function mostrarPerfiles()
   if not listLayout then return end
