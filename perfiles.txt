@@ -4,4 +4,3 @@ admin|accesibilidadplus.|Accesibilidad plus.
 admin|tecnologíaaccesible|Tecnologíaaccesible
 admin|ecoaccesible|Eco accesible
 admin|ayudayaccesibilidad|Ayuda y accesibilidad
-admin|ellocomayor|El loco mayor
