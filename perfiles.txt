@@ -4,3 +4,4 @@ admin|accesibilidadplus.|Accesibilidad plus.
 admin|tecnologíaaccesible|Tecnologíaaccesible
 admin|ecoaccesible|Eco accesible
 admin|ayudayaccesibilidad|Ayuda y accesibilidad
+admin|danielnunez1225|daniel el tecnológico
