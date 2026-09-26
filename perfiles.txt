@@ -3,4 +3,3 @@ admin|soporteparajieshuo.|Soporte para Jieshuo.
 admin|accesibilidadplus.|Accesibilidad plus.
 admin|tecnologíaaccesible|Tecnologíaaccesible
 admin|ecoaccesible|Eco accesible
-admin|ayudayaccesibilidad|Ayuda y accesibilidad
