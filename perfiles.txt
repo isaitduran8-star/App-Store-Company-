@@ -4,3 +4,4 @@ admin|alex1090|Ayuda y accesibilidad.
 
 admin|pablo2004|Tecnologíaaccesible
 admin|master_user_k20|Mateo Guaman
+admin|sebastianblind|Blind Accessibility
