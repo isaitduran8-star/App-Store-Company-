@@ -1,2 +1,4 @@
 superadmin|apk descargas.|aplicaciones company
 admin|diego12345|Access For All.
+admin|alex1090|Ayuda y accesibilidad.
+
