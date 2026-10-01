@@ -6,3 +6,5 @@ admin|pablo2004|Tecnologíaaccesible
 admin|master_user_k20|Mateo Guaman
 admin|sebastianblind|Blind Accessibility
 admin|cjpj|Soporte para Jieshuo.
+admin|accesibilidad22|Accesibilidad digital.
+
