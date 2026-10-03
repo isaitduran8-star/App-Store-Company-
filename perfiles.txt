@@ -8,3 +8,4 @@ admin|sebastianblind|Blind Accessibility
 admin|cjpj|Soporte para Jieshuo.
 admin|accesibilidad22|Accesibilidad digital.
 
+admin|anthonyisrael|Apoyo accesible
