@@ -1,7 +1,0 @@
-superadmin|apk descargas.|aplicaciones company
-admin|alex1090|Ayuda y accesibilidad.
-admin|pablo2004|Tecnologíaaccesible
-admin|master_user_k20|Mateo Guaman
-admin|sebastianblind|Blind Accessibility
-admin|accesibilidad22|Accesibilidad digital.
-admin|anthonyisrael|Apoyo accesible
