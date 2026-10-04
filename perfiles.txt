@@ -2,3 +2,4 @@ superadmin|apk descargas|aplicaciones company
 admin|master_user_k20|Mateo Guaman
 admin|pablo2004|Tecnologíaaccesible
 
+admin|accesibilidaddigital|Accesibilidad plus.
