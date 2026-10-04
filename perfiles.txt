@@ -6,3 +6,4 @@ admin|accesibilidaddigital|Accesibilidad plus.
 admin|diego12345|Access For All.
 admin|cjpj|Soporte para Jieshuo.
 admin|anthonyisrael|Apoyo accesible
+admin|sebastianblind|Blind Accessibility
