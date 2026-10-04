@@ -4,3 +4,4 @@ admin|pablo2004|Tecnologíaaccesible
 
 admin|accesibilidaddigital|Accesibilidad plus.
 admin|diego12345|Access For All.
+admin|cjpj|Soporte para Jieshuo.
