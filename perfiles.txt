@@ -1,8 +1,0 @@
-superadmin|apk descargas|aplicaciones company
-admin|master_user_k20|Mateo Guaman
-admin|pablo2004|Tecnologíaaccesible
-admin|diego12345|Access For All.
-admin|cjpj|Soporte para Jieshuo.
-admin|anthonyisrael|Apoyo accesible
-admin|sebastianblind|Blind Accessibility
-admin|accesibilidad22|accesibilidad digital
